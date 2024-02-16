@@ -42,6 +42,8 @@ But there needs to be a policy shift by all levels of government in favour of ur
 [![](https://img.youtube.com/vi/IZ_VFO_MPwk/0.jpg)](https://www.youtube.com/watch?v=IZ_VFO_MPwk)
 ### Amount of sold homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/pUo7egMmR1k/0.jpg)](https://www.youtube.com/watch?v=pUo7egMmR1k)
+### Amount of sold residential plots by LGA of Melbourne metropolitan area in 1992-2022 </br>
+[![](https://img.youtube.com/vi/nwjOEMXlm-s/0.jpg)](https://www.youtube.com/watch?v=nwjOEMXlm-s)
 
 
 ## Key takeaways
