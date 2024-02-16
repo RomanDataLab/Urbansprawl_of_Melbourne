@@ -52,7 +52,7 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ![](visuals/mma_10.jpg)
 ### Map of planned urban growth within the metro area envisions addition of 65% to previously urbanized terrains
 ![](visuals/mma_01.jpg)
-### Map of areas for urban densification to reconsile the urban sprawl.
+### Map of areas for urban densification to reconsile and mitigate the urban sprawl. 
 ![](visuals/mma_11.jpg)
 
 ## Key takeaways
