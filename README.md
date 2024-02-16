@@ -30,13 +30,13 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ![](visuals/MMA_urbanfabric.gif)
 ### ETL scheme
 ![](visuals/scheme.jpg)
-### Dynamic map of population density by SA2 of Melbourne metropolitan area in 2001-2022</br>
-[SA2 - is a statistic area level 2 in Australia that combines a neighborhood or city district level](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2) </br>
-[![](https://img.youtube.com/vi/pZfhHcZx9OA/0.jpg)](https://www.youtube.com/watch?v=pZfhHcZx9OA)
+### Dynamic map of population density by SA2 of Melbourne metropolitan area in 2001-2022 </br>
+![SA2 - is a statistic area level 2 in Australia that combines a neighborhood or city district level](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2) </br>
+[![](https://img.youtube.com/vi/pZfhHcZx9OA/0.jpg)](https://www.youtube.com/watch?v=pZfhHcZx9OA) 
 
 
 ## Key takeaways
-- Density correlates with the flats (apartments) market while homes construction booms on the remote perimeter of the metropolitan area.
+- Urban Density correlates with the flats (apartments) market while homes construction booms on the remote perimeter of the metropolitan area.
 - The most actively population grows in North,West and South East remote localities fueled by low-rise development.
 - 400-m catchment area of public transport has gaps in the localities with fast growing population.
 - Infill development would be reasonable within the inner perimeter of metropolitan area on the edge of well developed area of public transport.
