@@ -49,11 +49,11 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ### Dynamic map of Amount of sold apartments by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/KvGO_isV1V8/0.jpg)](https://www.youtube.com/watch?v=KvGO_isV1V8)
 ### Map of urban growth reveals anomal 100X growth last 20 years in the cheapest rural areas of the metro area
-![](mma_10.jpg)
+![](visuals/mma_10.jpg)
 ### Map of planned urban growth within the metro area envisions addition of 65% to previously urbanized terrains
-![](mma_01.jpg)
+![](visuals/mma_01.jpg)
 ### Map of areas for urban densification to reconsile the urban sprawl.
-![](mma_11.jpg)
+![](visuals/mma_11.jpg)
 
 ## Key takeaways
 - Urban Density correlates with the flats (apartments) market while homes construction booms on the remote perimeter of the metropolitan area.
