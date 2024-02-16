@@ -36,6 +36,12 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ### Mean price of homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [LGA - is a statistical term defining the Local Government Area,  equal to a territory of municipality or a shire in Australia.](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/non-abs-structures/local-government-areas) </br>
 [![](https://img.youtube.com/vi/dWD1PYtmeIk/0.jpg)](https://www.youtube.com/watch?v=dWD1PYtmeIk)
+### Mean price of plots by LGA of Melbourne metropolitan area in 1992-2022 </br>
+[![](https://img.youtube.com/vi/6eJ1Hny7WNs/0.jpg)](https://www.youtube.com/watch?v=6eJ1Hny7WNs)
+### Mean price of apartments by LGA of Melbourne metropolitan area in 1992-2022 </br>
+[![](https://img.youtube.com/vi/IZ_VFO_MPwk/0.jpg)](https://www.youtube.com/watch?v=IZ_VFO_MPwk)
+### Amount of sold homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
+[![](https://img.youtube.com/vi/pUo7egMmR1k/0.jpg)](https://www.youtube.com/watch?v=pUo7egMmR1k)
 
 
 ## Key takeaways
@@ -44,7 +50,7 @@ But there needs to be a policy shift by all levels of government in favour of ur
 - 400-m catchment area of public transport has gaps in the localities with fast growing population.
 - Infill development would be reasonable within the inner perimeter of metropolitan area on the edge of well developed area of public transport.
 
-## Refernces
+## References
 - The New Australian Dream: Rethinking Our Homes and Cities to Solve the Housing Crisis. 2022. Sergio Famiano. [Aurora House](https://aurorahouse.com.au/product/how-to-buy-your-own-home-in-australia/)
 - Analysis of Urban Growth and Sprawl from Remote Sensing Data. 2010. Springer. Dr. Basudeb Bhatta. DOI [10.1007/978-3-642-05299-6](https://doi.org/10.1007/978-3-642-05299-6).
 - Monitoring Urban Sprawl Using Time-Series Data: Famagusta Region of Northern Cyprus. 2021. Sage Journals. Kamyar Fuladlu, Müge Riza, Mustafa Ilkan. [SAGE Journals](https://doi.org/10.1177/21582440211007465)
