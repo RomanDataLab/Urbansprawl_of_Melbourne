@@ -30,7 +30,9 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ![](visuals/MMA_urbanfabric.gif)
 ### ETL scheme
 ![](visuals/scheme.jpg)
-### 
+### Dynamic map of population density by SA2 of Melbourne metropolitan area in 2001-2022</br>
+#### [SA2 - is a statistic area level 2 in Australia that combines a neighborhood or city district level] (https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2)
+
 
 ## Key takeaways
 - Density correlates with the flats (apartments) market while homes construction booms on the remote perimeter of the metropolitan area.
@@ -39,11 +41,11 @@ But there needs to be a policy shift by all levels of government in favour of ur
 - Infill development would be reasonable within the inner perimeter of metropolitan area on the edge of well developed area of public transport.
 
 ## Refernces
-- **The New Australian Dream: Rethinking Our Homes and Cities to Solve the Housing Crisis.** 2022. Sergio Famiano. [Aurora House](https://aurorahouse.com.au/product/how-to-buy-your-own-home-in-australia/)
-- **Analysis of Urban Growth and Sprawl from Remote Sensing Data.** 2010. Springer. Dr. Basudeb Bhatta. DOI [10.1007/978-3-642-05299-6](https://doi.org/10.1007/978-3-642-05299-6).
-- Monitoring Urban Sprawl Using Time-Series Data: Famagusta Region of Northern Cyprus.** 2021. Sage Journals. Kamyar Fuladlu, Müge Riza, Mustafa Ilkan. [SAGE Journals](https://doi.org/10.1177/21582440211007465)
-- How is Melbourne’s population density changing? (2006-2016).** Article in Charting Transport journal, 2017. [Charting Transport](https://chartingtransport.com/2017/07/09/how-is-melbournes-population-density-changing-2006-2016/)
-- Urban Calculator toolset** by the Spatial Morphology Group from Chalmers Institute of Technology. [SMoG](https://www.smog.chalmers.se/urbancalculator)
+- The New Australian Dream: Rethinking Our Homes and Cities to Solve the Housing Crisis. 2022. Sergio Famiano. [Aurora House](https://aurorahouse.com.au/product/how-to-buy-your-own-home-in-australia/)
+- Analysis of Urban Growth and Sprawl from Remote Sensing Data. 2010. Springer. Dr. Basudeb Bhatta. DOI [10.1007/978-3-642-05299-6](https://doi.org/10.1007/978-3-642-05299-6).
+- Monitoring Urban Sprawl Using Time-Series Data: Famagusta Region of Northern Cyprus. 2021. Sage Journals. Kamyar Fuladlu, Müge Riza, Mustafa Ilkan. [SAGE Journals](https://doi.org/10.1177/21582440211007465)
+- How is Melbourne’s population density changing? (2006-2016). Article in Charting Transport journal, 2017. [Charting Transport](https://chartingtransport.com/2017/07/09/how-is-melbournes-population-density-changing-2006-2016/)
+- Urban Calculator toolset by the Spatial Morphology Group from Chalmers Institute of Technology. [SMoG](https://www.smog.chalmers.se/urbancalculator)
 - [Department of Industry, Science, Energy and Resources - DISR](https://researchdata.edu.au/department-industry-science-resources-disr/1433377)
 - [Australian Statistical Geography Standard (ASGS) Edition 3, Jul 2021 - Jun 2026 - ABS](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files)
 - [Melbourne Housing Data - Kaggle (GitHub)](https://github.com/dipalira/Melbourne-Housing-Data-Kaggle)
