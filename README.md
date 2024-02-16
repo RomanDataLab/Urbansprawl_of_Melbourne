@@ -31,8 +31,11 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ### ETL scheme
 ![](visuals/scheme.jpg)
 ### Dynamic map of population density by SA2 of Melbourne metropolitan area in 2001-2022 </br>
-![SA2 - is a statistic area level 2 in Australia that combines a neighborhood or city district level](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2) </br>
-[![](https://img.youtube.com/vi/pZfhHcZx9OA/0.jpg)](https://www.youtube.com/watch?v=pZfhHcZx9OA) 
+[SA2 - is a statistic area level 2 in Australia that combines a neighborhood or city district level](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2) </br>
+[![](https://img.youtube.com/vi/pZfhHcZx9OA/0.jpg)](https://www.youtube.com/watch?v=pZfhHcZx9OA)
+### Mean price of homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
+[LGA - is a statistical term defining the Local Government Area,  equal to a territory of municipality or a shire in Australia.](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/non-abs-structures/local-government-areas) </br>
+[![](https://img.youtube.com/vi/dWD1PYtmeIk/0.jpg)](https://www.youtube.com/watch?v=dWD1PYtmeIk)
 
 
 ## Key takeaways
