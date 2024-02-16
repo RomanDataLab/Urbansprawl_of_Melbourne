@@ -49,7 +49,6 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ### Dynamic map of Amount of sold apartments by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/KvGO_isV1V8/0.jpg)](https://www.youtube.com/watch?v=KvGO_isV1V8)
 
-
 ## Key takeaways
 - Urban Density correlates with the flats (apartments) market while homes construction booms on the remote perimeter of the metropolitan area.
 - The most actively population grows in North,West and South East remote localities fueled by low-rise development.
