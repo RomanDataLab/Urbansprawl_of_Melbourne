@@ -33,17 +33,21 @@ But there needs to be a policy shift by all levels of government in favour of ur
 ### Dynamic map of population density by SA2 of Melbourne metropolitan area in 2001-2022 </br>
 [SA2 - is a statistic area level 2 in Australia that combines a neighborhood or city district level](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2) </br>
 [![](https://img.youtube.com/vi/pZfhHcZx9OA/0.jpg)](https://www.youtube.com/watch?v=pZfhHcZx9OA)
-### Mean price of homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
+### Dynamic map of Mean price of homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [LGA - is a statistical term defining the Local Government Area,  equal to a territory of municipality or a shire in Australia.](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/non-abs-structures/local-government-areas) </br>
 [![](https://img.youtube.com/vi/dWD1PYtmeIk/0.jpg)](https://www.youtube.com/watch?v=dWD1PYtmeIk)
-### Mean price of plots by LGA of Melbourne metropolitan area in 1992-2022 </br>
+### Dynamic map of Mean price of plots by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/6eJ1Hny7WNs/0.jpg)](https://www.youtube.com/watch?v=6eJ1Hny7WNs)
-### Mean price of apartments by LGA of Melbourne metropolitan area in 1992-2022 </br>
+### Dynamic map of Mean price of apartments by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/IZ_VFO_MPwk/0.jpg)](https://www.youtube.com/watch?v=IZ_VFO_MPwk)
-### Amount of sold homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
+### Dynamic map of Amount of sold homes by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/pUo7egMmR1k/0.jpg)](https://www.youtube.com/watch?v=pUo7egMmR1k)
-### Amount of sold residential plots by LGA of Melbourne metropolitan area in 1992-2022 </br>
+### Dynamic map of Amount of sold residential plots by LGA of Melbourne metropolitan area in 1992-2022 </br>
 [![](https://img.youtube.com/vi/nwjOEMXlm-s/0.jpg)](https://www.youtube.com/watch?v=nwjOEMXlm-s)
+### Dynamic map of Population by SA2 of Melbourne metropolitan area in 2001-2022 </br>
+[![](https://img.youtube.com/vi/f2XUjjwtkO8/0.jpg)](https://www.youtube.com/watch?v=f2XUjjwtkO8)
+### Dynamic map of Amount of sold apartments by LGA of Melbourne metropolitan area in 1992-2022 </br>
+[![](https://img.youtube.com/vi/KvGO_isV1V8/0.jpg)](https://www.youtube.com/watch?v=KvGO_isV1V8)
 
 
 ## Key takeaways
