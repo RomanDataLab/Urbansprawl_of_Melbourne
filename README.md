@@ -25,6 +25,11 @@ But there needs to be a policy shift by all levels of government in favour of ur
 2.  Considering the last studies of Melbourne’s urban sprawl revealing the out-breaking population dynamic growth in the fringe zones we are going to prove that the infill densified development should be addressed the first of all to the inner ring of metropolitan zones in order to balance back the urbanization loads. 
 3. Additionally, comprehending the dynamics of public transport development, we are going to highlight that the inner ring zones need more public transport connectivity (trackless tram) as a supplement of the strategy of the infill densified development. 
 
+## Piece of code
+- [Data cleaning and preparation](US_councils_prices.ipynb)
+- [Geocoding](US_geocode_estatesells.ipynb)
+- [Data mining and manupipulation for analysis](US_metro_stations_yearsopened.ipynb)
+
 ## Data visualization and analysis
 ### Dynamic map of urban sprawl pace in the Greater Melbourne
 ![](visuals/MMA_urbanfabric.gif)
