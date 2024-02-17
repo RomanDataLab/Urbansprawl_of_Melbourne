@@ -2,7 +2,7 @@
 ## Remote sensing of the urban sprawl’s pace of the Greater Melbourne 
 [BLog link](https://blog.iaac.net/remote-sensing-of-the-urban-sprawls-pace-of-melbourne/)</br>
 Urban sensing project in Python </br>
-tools: Jupyter Notebook, R, Python, Pandas +  Geopandas +  Numpy +  Folium + BeautifulSoup + OSMNX + Matplotlib + Plotly + Networkx + Scikit-learn, QGIS, Grasshopper, Urbano.
+tools: Jupyter Notebook, R, Python, Pandas + Wikipedia + Pysal + Geopandas +  Numpy +  Folium + BeautifulSoup + OSMNX + Matplotlib + Plotly + Networkx + Scikit-learn, QGIS, Grasshopper, Urbano.
 ## What I learned: 
 - Data mining and aggregaion from Australian national, state and local resources
 - Modelling of dynamic maps in QGIS and Grasshopper
